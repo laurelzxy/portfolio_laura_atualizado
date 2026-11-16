@@ -1,0 +1,12 @@
+PORTFÓLIO - LAURA OLIVAR SANTOS
+
+Para visualizar, extraia a pasta e abra o arquivo index.html em um navegador.
+
+Estrutura:
+- index.html: conteúdo e páginas do portfólio
+- css/style.css: estilos visuais
+- js/script.js: navegação entre seções e detalhes dos projetos
+- assets/images/: imagens utilizadas no site
+
+A navegação dos projetos abre páginas de detalhes dentro do próprio portfólio.
+A fonte Inter é carregada do Google Fonts; é necessária conexão com a internet para carregá-la.
